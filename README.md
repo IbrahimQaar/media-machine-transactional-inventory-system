@@ -9,7 +9,7 @@ It models real-world transaction handling and inventory control through structur
 
 ## Overview
 
-The system demonstrates disciplined object-oriented architecture and controlled transaction processing in Java.
+The system demonstrates structured object-oriented architecture and controlled transaction processing in Java.
 
 On startup, it:
 
@@ -121,5 +121,6 @@ PROJECT_SPEC.md
 
 **Ibrahim Qaar**
 Software Engineering
+
 
 
