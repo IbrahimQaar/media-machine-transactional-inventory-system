@@ -1,9 +1,3 @@
-Here is the fully refined, clean, professional version — tightened wording, consistent terminology, and polished flow. Nothing unnecessary. Nothing exaggerated.
-
-You can copy this directly into GitHub.
-
----
-
 ## Media Machine Application
 
 > Built with Java | Object-Oriented Design | File I/O | Transaction Processing
@@ -127,3 +121,4 @@ PROJECT_SPEC.md
 
 **Ibrahim Qaar**
 Software Engineering
+
