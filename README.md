@@ -1,20 +1,22 @@
-# Media Machine Application
+Media Machine Application
 
- A console-based Java system that simulates a transactional media vending platform with inventory control, purchase validation, audit logging, and automated sales reporting.
+A console-based Java system that simulates a transactional media vending machine with inventory management, purchase validation, audit logging, and automated sales reporting.
+The application models real-world transaction handling and inventory control using object-oriented design principles.
 
 ---
 
-## Overview
+Overview
 
-The Media Machine Application demonstrates disciplined object-oriented design and controlled transaction processing in Java.
-
+The Media Machine Application demonstrates disciplined object-oriented design and structured transaction processing in Java.
 On startup, the system:
 
-* Loads inventory from `mediaInput.csv`
-* Automatically restocks all media items
-* Initializes transaction and reporting components
+- Loads inventory from mediaInput.csv
 
-The application manages the complete purchase lifecycle including validation, balance tracking, inventory updates, optimal change calculation, and audit logging.
+- Automatically restores product quantities
+
+- Initializes transaction tracking and reporting components
+
+The application manages the complete purchase lifecycle, including product validation, balance management, inventory updates, optimal change calculation, and financial audit logging.
 
 ---
 
@@ -120,5 +122,6 @@ PROJECT_SPEC.md
 
 **Ibrahim Qaar**
 Software Engineering
+
 
 
