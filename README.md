@@ -100,7 +100,7 @@ A hidden main menu option generates a timestamped sales report that:
 
 ```bash
 git clone https://github.com/IbrahimQaar/media-machine-application.git
-cd media-machine-application
+cd media-machine-java
 ```
 
 Or run using your preferred IDE.
@@ -121,4 +121,5 @@ PROJECT_SPEC.md
 
 **Ibrahim Qaar**
 Software Engineering
+
 
