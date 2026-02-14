@@ -1,6 +1,6 @@
 # Media Machine Application
 
-> A console-based Java system that simulates a transactional media vending platform with inventory control, purchase validation, audit logging, and automated sales reporting.
+ A console-based Java system that simulates a transactional media vending platform with inventory control, purchase validation, audit logging, and automated sales reporting.
 
 ---
 
@@ -120,4 +120,5 @@ PROJECT_SPEC.md
 
 **Ibrahim Qaar**
 Software Engineering
+
 
