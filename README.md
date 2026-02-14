@@ -1,22 +1,29 @@
-Media Machine Application
+Here is the fully refined, clean, professional version — tightened wording, consistent terminology, and polished flow. Nothing unnecessary. Nothing exaggerated.
 
-A console-based Java system that simulates a transactional media vending machine with inventory management, purchase validation, audit logging, and automated sales reporting.
-The application models real-world transaction handling and inventory control using object-oriented design principles.
+You can copy this directly into GitHub.
 
 ---
 
-Overview
+## Media Machine Application
 
-The Media Machine Application demonstrates disciplined object-oriented design and structured transaction processing in Java.
-On startup, the system:
+> Built with Java | Object-Oriented Design | File I/O | Transaction Processing
 
-- Loads inventory from mediaInput.csv
+A console-based Java system that simulates a transactional media vending platform with inventory management, purchase validation, audit logging, and automated sales reporting.
+It models real-world transaction handling and inventory control through structured object-oriented design principles.
 
-- Automatically restores product quantities
+---
 
-- Initializes transaction tracking and reporting components
+## Overview
 
-The application manages the complete purchase lifecycle, including product validation, balance management, inventory updates, optimal change calculation, and financial audit logging.
+The system demonstrates disciplined object-oriented architecture and controlled transaction processing in Java.
+
+On startup, it:
+
+* Loads inventory from `mediaInput.csv`
+* Restores product quantities to their initial state
+* Initializes transaction tracking and reporting components
+
+The system manages the complete purchase lifecycle, including product validation, balance management, inventory updates, optimal change calculation, and financial audit logging.
 
 ---
 
@@ -28,7 +35,7 @@ The application manages the complete purchase lifecycle, including product valid
 * Video Games
 * Audio Books
 
-Each product contains:
+Each product includes:
 
 * Unique identifier
 * Title
@@ -37,7 +44,7 @@ Each product contains:
 * Shared attributes (genre, release year)
 * Category-specific attributes (author, director, platform, narrator, etc.)
 
-Items with zero quantity are clearly marked **SOLD OUT** and are restricted from purchase.
+Items with zero quantity are clearly marked **SOLD OUT** and cannot be purchased.
 
 ---
 
@@ -100,8 +107,6 @@ A hidden main menu option generates a timestamped sales report that:
 ```bash
 git clone https://github.com/IbrahimQaar/media-machine-application.git
 cd media-machine-application
-javac *.java
-java Application
 ```
 
 Or run using your preferred IDE.
@@ -122,6 +127,3 @@ PROJECT_SPEC.md
 
 **Ibrahim Qaar**
 Software Engineering
-
-
-
