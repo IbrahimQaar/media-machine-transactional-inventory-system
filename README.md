@@ -120,7 +120,8 @@ PROJECT_SPEC.md
 ## Author
 
 **Ibrahim Qaar**
-Software Engineering
+Software Engineer
+
 
 
 
